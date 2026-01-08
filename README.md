@@ -18,7 +18,7 @@ Core Analysis & Insights
 * Customer segmentation: first-time, return, and regular riders
 * Cancellation reasons analysis (customer-side & driver-side)
 
-  Power BI Features Used
+Power BI Features Used
 * Advanced DAX measures & calculated columns
 * Interactive slicers, filters, and bookmarks
 * Drill-through & cross-filtering
